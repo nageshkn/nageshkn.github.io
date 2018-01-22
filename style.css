@@ -48,7 +48,7 @@ nav ul li a{
 }
 
 
-.divider {
+.content {
 	background-color: black;
 	height: 5px;
 }
@@ -57,3 +57,15 @@ nav ul li a{
 	background-color: black;
 	padding: 25px 10px 19px 10px;
 }
+
+}
+#footer{
+	border-bottom: 1px #ccc solid;
+	margin-bottom: 10px;
+}
+	#footer p{
+		text-align: right;
+		text-transform: uppercase;
+		font-size: 80%;
+		color: grey;
+	}
